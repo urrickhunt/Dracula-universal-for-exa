@@ -2,7 +2,7 @@
 
 > Dracula Universal theme for [exa](https://github.com/ogham/exa).
 
-![with g](https://user-images.githubusercontent.com/96319944/232595272-5a41e29e-e121-4ab7-a406-48fb77481a92.png)
+![exa g](https://user-images.githubusercontent.com/96319944/235212724-b31fa859-37e4-4e82-bb94-b20f2b29bd9b.png)
 
 ## Install
 
@@ -44,15 +44,13 @@ For normal & larger displays include group (-g flag)
 
 alias xl='exa -lag --icons --color=always'
 
-![with g](https://user-images.githubusercontent.com/96319944/232595498-7eb0a640-63af-4fb5-abeb-7a2a40a9dbb5.png)
-
+![exa g](https://user-images.githubusercontent.com/96319944/235212766-86223db4-1223-4e5f-8c40-088d730be8a8.png)
 
 For smaller or limited displays no group 
 
 alias xl='exa -la --icons --color=always'
 
-![without g](https://user-images.githubusercontent.com/96319944/232595553-75151e2d-b2fa-4be7-9351-cabd9b0ac5b0.png)
-
+![exa](https://user-images.githubusercontent.com/96319944/235212797-1ec23edc-2081-4f2c-a8b6-e9e2d796265e.png)
 
 ## Team
 
