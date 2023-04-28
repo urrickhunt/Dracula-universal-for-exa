@@ -50,7 +50,7 @@ For smaller or limited displays no group
 
 alias xl='exa -la --icons --color=always'
 
-![exa](https://user-images.githubusercontent.com/96319944/235212797-1ec23edc-2081-4f2c-a8b6-e9e2d796265e.png)
+![exa](https://user-images.githubusercontent.com/96319944/235213707-4512c555-a87f-44f7-990e-cc2d43467bc1.png)
 
 ## Team
 
